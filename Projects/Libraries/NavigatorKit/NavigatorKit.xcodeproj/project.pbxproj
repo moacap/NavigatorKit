@@ -501,6 +501,7 @@
 		0867D690FE84028FC02AAC07 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastUpgradeCheck = 0420;
 				ORGANIZATIONNAME = Semantap;
 			};
 			buildConfigurationList = 1DEB922208733DC00010E9CD /* Build configuration list for PBXProject "NavigatorKit" */;
@@ -596,6 +597,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 63894BE5103BD59B007C9CC9 /* Project.xcconfig */;
 			buildSettings = {
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
 			};
 			name = Debug;
 		};
@@ -603,6 +605,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 63894BE5103BD59B007C9CC9 /* Project.xcconfig */;
 			buildSettings = {
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
 			};
 			name = Release;
 		};
